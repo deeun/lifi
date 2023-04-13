@@ -1,0 +1,15 @@
+<svg id="ico_sequence" xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+  <rect id="area" width="32" height="32" fill="none"/>
+  <circle id="circle" cx="1" cy="1" r="1" transform="translate(21 11)" fill="#333"/>
+  <circle id="circle-2" data-name="circle" cx="1" cy="1" r="1" transform="translate(21 15)" fill="#333"/>
+  <circle id="circle-3" data-name="circle" cx="1" cy="1" r="1" transform="translate(21 19)" fill="#333"/>
+  <circle id="circle-4" data-name="circle" cx="1" cy="1" r="1" transform="translate(17 11)" fill="#333"/>
+  <circle id="circle-5" data-name="circle" cx="1" cy="1" r="1" transform="translate(17 15)" fill="#333"/>
+  <circle id="circle-6" data-name="circle" cx="1" cy="1" r="1" transform="translate(17 19)" fill="#333"/>
+  <circle id="circle-7" data-name="circle" cx="1" cy="1" r="1" transform="translate(13 11)" fill="#333"/>
+  <circle id="circle-8" data-name="circle" cx="1" cy="1" r="1" transform="translate(13 15)" fill="#333"/>
+  <circle id="circle-9" data-name="circle" cx="1" cy="1" r="1" transform="translate(13 19)" fill="#333"/>
+  <circle id="circle-10" data-name="circle" cx="1" cy="1" r="1" transform="translate(9 11)" fill="#333"/>
+  <circle id="circle-11" data-name="circle" cx="1" cy="1" r="1" transform="translate(9 15)" fill="#333"/>
+  <circle id="circle-12" data-name="circle" cx="1" cy="1" r="1" transform="translate(9 19)" fill="#333"/>
+</svg>

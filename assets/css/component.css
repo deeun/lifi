@@ -1,0 +1,37 @@
+/* NPagination */
+.on {
+  color: #43B9D3 !important;
+  font-weight: 500;
+}
+
+/* NCheckbox */
+.checkbox {
+  border-radius: 4px !important;
+  padding-bottom: 3px !important;
+}
+
+.checkbox--label {
+  margin-left: 8px;
+}
+
+/* NInputForm */
+.mes_input_form {
+  height: auto;
+  min-height: 34px;
+}
+
+.mes_input_title {
+  min-width: 130px !important;
+}
+
+/* NSelectbox */
+.input__style {
+  height: 34px !important;
+}
+
+/* NTextarea */
+.text-area {
+  border: 1px solid #DDDDDD;
+  padding: 6px 35px 6px 8px;
+  box-sizing: border-box;
+}

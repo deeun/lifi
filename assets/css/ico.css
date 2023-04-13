@@ -1,0 +1,139 @@
+.ico {
+    width: 24px;
+    height: 24px;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.ico-16 {
+    width: 16px;
+    height: 16px;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.ico-18 {
+    width: 18px;
+    height: 18px;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.ico-32 {
+    width: 32px;
+    height: 32px;
+    background-repeat: no-repeat;
+}
+
+.ico-delete {
+    background-image: url("../assets/icon/ico_close.svg");
+}
+
+.ico-eyes {
+    background-image: url("../assets/icon/icon_eye.svg");
+}
+
+.ico-search {
+    background-image: url("../assets/icon/ico_search.svg");
+}
+
+.ico-next-arrow {
+    background-image: url("../assets/icon/ico_chevron_right_g.svg");
+}
+
+.ico-pre-arrow {
+    background-image: url("../assets/icon/ico_chevron_left_g.svg");
+}
+
+.ico-left-btn {
+    background-image: url("../assets/icon/ico_chevron_left.svg");
+}
+
+.ico-right-btn {
+    background-image: url("../assets/icon/ico_chevron_right.svg");
+}
+
+.ico-ascending-order {
+    background-image: url("../assets/icon/ico_ascending_order.svg");
+}
+
+.ico-descending-order {
+    background-image: url("../assets/icon/ico_descending_order.svg");
+}
+
+.ico-disabled-left {
+    background-image: url("../assets/icon/ico_chevron_left.svg");
+}
+
+.ico-disabled-right {
+    background-image: url("../assets/icon/ico_chevron_right.svg");
+}
+
+.ico-calendar {
+    background-image: url("../assets/icon/ico_calendar.svg");
+}
+
+.ico-close {
+    background-image: url("../assets/icon/ico_close.svg");
+}
+
+.ico-default-order {
+    background-image: url("../assets/icon/ico_forms_order.svg");
+}
+
+.ico-logout {
+    background-image: url("../assets/icon/ico_logout.svg");
+}
+
+.ico-menu {
+    background: url("../assets/icon/ico_menu.svg");
+}
+
+.ico-minus-box {
+    background-image: url("../assets/icon/ico_minus_box.svg");
+}
+
+.ico-plus-box {
+    background-image: url("../assets/icon/ico_plus_box.svg");
+}
+
+.ico-sequence {
+    background-image: url("../assets/icon/ico_sequence.svg");
+}
+
+.ico-x {
+    background-image: url("../assets/icon/ico_close.svg");
+}
+
+.ico-corner-down-right {
+    background-image: url("../assets/icon/icon-corner-down-right.svg");
+}
+
+.ico-input-x {
+    background-image: url("../assets/icon/icon-forms-input-x.svg");
+}
+
+.ico-minus-orange {
+    background-image: url("../assets/icon/ico_minus_box.svg");
+}
+
+.ico-cancel {
+    background-image: url("../assets/icon/ico_cancel.svg");
+}
+
+.ico-selection-down {
+    background-image: url("../assets/icon/icon-forms-selectioninput.svg");
+}
+
+.ico-circle-x {
+    background-image: url("../assets/icon/icon-forms-input-x.svg");
+}
+
+.ico-arrow-left {
+    background-image: url("../assets/icon/ico_chevron_left_g.svg");
+}
+
+.ico-arrow-right {
+    background-image: url("../assets/icon/ico_chevron_right.svg");
+}
+

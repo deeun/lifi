@@ -1,0 +1,9 @@
+<svg id="Error" xmlns="http://www.w3.org/2000/svg" width="140" height="140" viewBox="0 0 140 140">
+  <path id="Area" d="M0,140H140V0H0Z" fill="#fff" opacity="0"/>
+  <path id="Combined_Shape" data-name="Combined Shape" d="M1.5,80a1.5,1.5,0,1,1,0-3H16.443V0L55.695.051a1.519,1.519,0,0,1,.155.008h.468L56.661.4a1.506,1.506,0,0,1,.184.186L76.1,19.978v3.249H76V60a1.5,1.5,0,0,1-3,0V23.227H51.632V3.046L19.444,3V76.929H65.51a1.5,1.5,0,0,1,.458.071H91.5a1.5,1.5,0,0,1,0,3ZM54.632,20.228H72.124L55.068,3.059h-.437ZM27.445,48.956a1.5,1.5,0,1,1,0-3h37.58a1.5,1.5,0,1,1,0,3Zm.015-12.645a1.5,1.5,0,1,1,0-3H46.321a1.5,1.5,0,1,1,0,3Z" transform="translate(24 23)"/>
+  <g id="Point" transform="translate(80 80)">
+    <path id="Fill_16" data-name="Fill 16" d="M42,21A21,21,0,1,1,21,0,21,21,0,0,1,42,21" transform="translate(1.5 1.5)" fill="#99ce1e"/>
+    <path id="Fill_18" data-name="Fill 18" d="M22.5,45A22.5,22.5,0,1,1,45,22.5,22.525,22.525,0,0,1,22.5,45Zm0-42A19.5,19.5,0,1,0,42,22.5,19.522,19.522,0,0,0,22.5,3Z"/>
+    <path id="Combined_Shape-2" data-name="Combined Shape" d="M0,17.592v-.445a1.5,1.5,0,1,1,3,0v.445a1.5,1.5,0,1,1-3,0ZM0,11.2V1.5a1.5,1.5,0,1,1,3,0v9.7a1.5,1.5,0,1,1-3,0Z" transform="translate(21 12.953)" fill="#fff"/>
+  </g>
+</svg>

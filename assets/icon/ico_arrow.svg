@@ -1,0 +1,4 @@
+<svg id="ArrowIcon" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+  <path id="Rectangle" d="M0,16H16V0H0Z" fill="red" opacity="0"/>
+  <path id="Combined_Shape" data-name="Combined Shape" d="M0,0,5,5,0,10" transform="translate(13 5.5) rotate(90)" fill="none" stroke="#0150ad" stroke-width="1"/>
+</svg>

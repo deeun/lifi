@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16.399" height="16.4" viewBox="0 0 16.399 16.4">
+  <g id="ico_search" transform="translate(0.2 0.2)">
+    <path id="Fill_1" data-name="Fill 1" d="M0,16H16V0H0Z" fill="#fff" stroke="#000" stroke-width="0.4" opacity="0"/>
+    <path id="Fill_2" data-name="Fill 2" d="M12.431,12.9h0l-2.6-2.6a5.925,5.925,0,1,1,.471-.471L12.9,12.431l-.471.471ZM5.9.667A5.235,5.235,0,1,0,11.137,5.9,5.241,5.241,0,0,0,5.9.667Z" transform="translate(1.367 1.307)" stroke="#000" stroke-width="0.3"/>
+  </g>
+</svg>

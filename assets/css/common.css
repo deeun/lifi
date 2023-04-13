@@ -1,0 +1,117 @@
+body {
+  width: 100%;
+  height: 100vh;
+  margin: 0;
+}
+
+#__nuxt, #__layout, #app {
+  width: 100%;
+  height: 100%;
+}
+
+input:focus {
+  outline: none;
+}
+
+.cp {
+  cursor: pointer;
+}
+
+.required {
+  color: #FA5252;
+}
+
+/* 테이블 */
+.table__zero-result__msg {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  color: #333333;
+  font-size: 14px;
+  font-weight: 300;
+  min-height: 120px;
+}
+.detail_filter_btn {
+  text-align: right;
+}
+.detail_filter_btn span div {
+  position: relative;
+  top: 5px;
+  transform: rotate( 270deg );
+  filter: invert(21%) sepia(68%) saturate(2788%) hue-rotate(200deg) brightness(65%) contrast(104%);
+}
+
+/*color*/
+.bg_fff{
+  background-color: #FFFFFF;
+}
+.text_blue{
+  color: #0150AD;
+}
+.text_999{
+  color: #999999;
+}
+
+/* com */
+.edge {
+  margin: 0 8px;
+}
+.filter_label {
+  white-space: nowrap;
+  min-width: 92px;
+}
+.filter_form {
+  font-size: 14px;
+  min-height: 42px;
+  line-height: 42px;
+  background-color: #F5F5F5;
+  padding: 0 15px;
+
+}
+.bg-white {
+  background-color: #fff !important;
+}
+.row_border_bottom {
+  border-bottom: 1px solid #dddddd;
+}
+.row{
+  flex-direction: row !important;
+}
+.ft_777{
+  color: #777777;
+}
+.title{
+  background: #F5F5F5;
+  min-width: 122px;
+  min-height: 100%;
+  display: flex;
+  align-items: center;
+  padding: 0 15px;
+}
+
+.table_border{
+  border-top: 1px solid #333 !important;
+}
+
+/* text-aline*/
+.left_align{
+  text-align: left;
+}
+.center_align{
+  text-align: center;
+}
+.right_align{
+  text-align: right;
+}
+
+/* 말줄임 */
+.text_ellipsis{
+  overflow: hidden;
+  white-space: normal;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  word-break: keep-all;
+}
